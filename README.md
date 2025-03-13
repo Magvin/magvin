@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magvin" alt="magvin" /></a> </p>
 
-- 🔭 I’m currently working on [Metaversa Project](https://github.com/advirltd)
+- 🔭 I’m currently working on [GEN AI]
 
-- 🌱 I’m currently learning **how to ace leetcode and WebGL technology**
+- 🌱 I’m currently learning **how to ace use LLM and WebGL technology**
 
 - 💬 Ask me about **React and Mobx**
 
